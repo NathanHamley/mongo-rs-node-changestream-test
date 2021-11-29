@@ -1,0 +1,14 @@
+{
+  "name": "changestream-test",
+  "version": "1.0.0",
+  "description": "test-mongo-changestream and mongo setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "nathan@hamley.eu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.2.0"
+  }
+}
